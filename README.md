@@ -49,7 +49,7 @@ Have Strong Knowledge & Experience of ,
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kaushal-Nagar&theme=shades-of-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushal-Nagar&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
--->
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kaushal-Nagar&theme=discord&no-frame=true&no-bg=true&margin-w=4)
@@ -62,3 +62,4 @@ Have Strong Knowledge & Experience of ,
 
 ---
 [![](https://visitcount.itsvg.in/api?id=matin676&icon=2&color=7)](https://visitcount.itsvg.in)
+-->
