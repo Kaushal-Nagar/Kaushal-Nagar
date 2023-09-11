@@ -14,29 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Have Strong Knowledge & Experience of ,
-
-👨🏻‍🦱 • Google DSC Lead at GEC , Patan 
- • Founder & Lead of Google DSC GECP community
- • Organizer of GDSC WOW Gujarat 2023
- • Management Team member of E-cell GECP ( Entrepreneurs Club GECP )
- • Organizer of GDSC WOW Gujarat 2023 
-👨🏼‍💻 • Programming [ HTML , C/C++ , Java , SQL , Python ]
+  ## Have Strong Knowledge & Experience of ,
+- Google DSC lead'22
+- 👨🏼‍💻 • Programming
 📱 • Hacking
 🔮 • Technology
 
-🎨 • Software : [ Figma , Adobe XD , Photoshop , Lightroom , After Effect/ Premier Pro ]
- • Skills : [ Photo Editing / Grading , Video Editing / Grading , UX/UI Designer , Banner/Poster Designing e.t.c ]
+- 🎨 Software : [ Figma , Adobe XD , Photoshop , Lightroom , After Effect/ Premier Pro ]
+- Skills : [ Photo Editing / Grading , Video Editing / Grading , UX/UI Designer , Banner/Poster Designing e.t.c ]
 
 📝 • Programmer , Community Leader , Content Creator , SEO Writer , Data Entry Operator , Subject Matter Expert.
 
-📚 • Intern at FreeCo ( Content Writing • SME • Data Entry Operator ) 
- • Intern at Epitome ( Webcasting ) 
- • Campus Ambassador at ( Algozenith , Skill Lync , Coding Ninja , Coding Block , Techlearn ) 
-
-💻 Doing Computer Science & Engineering in GEC , Patan.
-
-🛣️ Just Started my Journey ....
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushal-nagar997/) 
