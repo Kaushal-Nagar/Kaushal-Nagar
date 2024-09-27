@@ -12,7 +12,7 @@
 
 ## 💼 Experiences:
 
-- **Google DSC Founding Lead** (2022) - *GEC, Patan*
+- **Google DSC Founding Lead** (2022)
 - **Intern at FreeCo** - *Content Writing • SME • Data Entry Operator*
 - **Intern at Epitome** - *Webcasting*
 - **Campus Ambassador** - *Algozenith, Skill Lync, Coding Ninja, Coding Block, Techlearn*
