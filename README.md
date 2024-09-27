@@ -3,10 +3,9 @@
 ## 👨‍💻 About Me:
 
 - 🎓 **B.Tech in Computer Science & Engineering**
-- 🚀 **Founder & Lead** of Google DSC GECP community
+- 🚀 **Founder & Lead** of Google DSC GECP community at my University
 - 🌟 **Organizer** of GDSC WOW Gujarat 2023
-- 💡 **Management Team Member** at E-cell GECP (Entrepreneurs Club)
-- 💻 Programming Enthusiast proficient in [**HTML**, **C/C++**, **Java**, **SQL**, **Python**]
+- 💻 Programming Enthusiast proficient in [**HTML**, **C/C++**, **Java**, **SQL**, **Python**, **Swift**]
 - 🛡️ Passionate about **Hacking**, **Technology**, and **Innovation**
 - 📱 Software & Design Tools: [**Figma**, **Adobe XD**, **Photoshop**, **Lightroom**, **After Effects/Premier Pro**]
 
