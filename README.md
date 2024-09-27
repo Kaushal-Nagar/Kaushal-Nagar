@@ -2,13 +2,13 @@
 
 ## 👨‍💻 About Me:
 
-- 🎓 **Computer Science & Engineering Student** at GEC, Patan
+- 🎓 **B.Tech in Computer Science & Engineering**
 - 🚀 **Founder & Lead** of Google DSC GECP community
 - 🌟 **Organizer** of GDSC WOW Gujarat 2023
 - 💡 **Management Team Member** at E-cell GECP (Entrepreneurs Club)
-- 💻 Programming Enthusiast [**HTML**, **C/C++**, **Java**, **SQL**, **Python**]
-- 🛡️ Passionate about **Hacking**, **Technology** & **Innovation**
-- 📱 Software & Design tools: [**Figma**, **Adobe XD**, **Photoshop**, **Lightroom**, **After Effects/Premier Pro**]
+- 💻 Programming Enthusiast proficient in [**HTML**, **C/C++**, **Java**, **SQL**, **Python**]
+- 🛡️ Passionate about **Hacking**, **Technology**, and **Innovation**
+- 📱 Software & Design Tools: [**Figma**, **Adobe XD**, **Photoshop**, **Lightroom**, **After Effects/Premier Pro**]
 
 ## 💼 Experiences:
 
@@ -27,7 +27,7 @@
 
 ## 🌐 Connect with Me:
 
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/kaushal-nagar997/))
+- [LinkedIn](https://www.linkedin.com/in/kaushal-nagar997/)
 - [Email](mailto:kaushalnagar997@gmail.com)
 
 <!-- ## 🚀 Projects & Contributions:
