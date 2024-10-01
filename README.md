@@ -3,6 +3,7 @@
 ## 👨‍💻 About Me:
 
 - 🎓 **B.Tech in Computer Science & Engineering**
+- 💼 **Software Engineer**: **iOS Development** and **Web Development**
 - 🚀 **Founder & Lead** of Google DSC GECP community at my University
 - 🌟 **Organizer** of GDSC WOW Gujarat 2023
 - 💻 Programming Enthusiast proficient in [**HTML**, **C/C++**, **Java**, **SQL**, **Python**, **Swift**]
@@ -18,6 +19,8 @@
 
 ## 🧑‍🎨 Skills:
 
+- **iOS Development**
+- **Web Development**
 - **Photo Editing** & **Video Editing** (Grading, Color Correction)
 - **UI/UX Design** (Banners, Posters, Web & App Design)
 - **SEO Writing** & **Content Creation**
@@ -29,9 +32,9 @@
 - [LinkedIn](https://www.linkedin.com/in/kaushal-nagar997/)
 - [Email](mailto:kaushalnagar997@gmail.com)
 
-<!-- ## 🚀 Projects & Contributions:
-
-- **Project 1** - Brief description
-- **Project 2** - Brief description -->
+---
 
 🌟 *"Just Started My Journey, Eager to Learn and Grow Every Day!"*
+
+---
+
