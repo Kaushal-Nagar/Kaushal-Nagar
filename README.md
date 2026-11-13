@@ -15,6 +15,7 @@
 - ⚡ Real-time features: chat, live location tracking, VoIP calling
 - 🤖 AI-assisted development: Claude Code, OpenAI Codex, Cursor, GitHub Copilot, local LLMs (Ollama)
 - 🌍 Founded Google DSC at GEC Patan · co-organized GDSC WOW Gujarat 2023 (700+ attendees)
+- 🎯 **Open to iOS & React Native roles**
 
 ## 🛠️ Tech stack
 
